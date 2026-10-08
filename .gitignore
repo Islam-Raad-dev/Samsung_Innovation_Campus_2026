@@ -4,9 +4,3 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 .env
-
-# Course materials must NOT be uploaded (program terms)
-*.pdf
-*.pptx
-*.mp4
-*.zip
