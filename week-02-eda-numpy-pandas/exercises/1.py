@@ -20,3 +20,12 @@ print(len(arr5))
 
 arr6 = np.array(["apple", "banana", "cherry", "date", "fig", "grape"])
 print(arr6)
+
+arr7 = np.linspace(-10, 10, 20)
+print(arr7)
+
+arr8 = np.zeros((3, 4))
+print(arr8)
+
+arr9 = np.ones((3, 4))
+print(arr9)
