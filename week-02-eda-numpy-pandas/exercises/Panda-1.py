@@ -23,3 +23,8 @@ print(student_list["age"].mean())
 print("*" * 50)
 
 print(student_list["age"])
+
+df_dup = student_list["age"].duplicated()
+
+print("*" * 50)
+print(df_dup)
