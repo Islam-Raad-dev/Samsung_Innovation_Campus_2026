@@ -7,24 +7,24 @@ student_list = pd.read_csv(
 Name = student_list["name"]
 
 print(student_list.to_string())
-print("*" * 50)
+print("*" * 100)
 print(student_list.head(16).isnull().sum(axis=0))
-print("*" * 50)
+print("*" * 100)
 print(student_list.head(16).notnull().sum(axis=0))
 
 mean_age = student_list["age"].mean()
 
 student_list = student_list.fillna({"age": mean_age})
 
-print("*" * 50)
+print("*" * 100)
 
 print(student_list["age"].mean())
 
-print("*" * 50)
+print("*" * 100)
 
 print(student_list["age"])
 
 df_dup = student_list["age"].duplicated()
 
-print("*" * 50)
+print("*" * 100)
 print(df_dup)
