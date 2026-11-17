@@ -31,7 +31,7 @@ This repository is my personal, public record of the Samsung Innovation Campus (
 | **Certification** | Attendance above 90% and total grade above 50% |
 
 ### What the program covers
-
+                   
 1. Introduction to Artificial Intelligence
 2. Math for Data Science: linear algebra (vectors, matrices) and derivatives
 3. Exploratory Data Analysis: NumPy and Pandas, data preprocessing and visualization
