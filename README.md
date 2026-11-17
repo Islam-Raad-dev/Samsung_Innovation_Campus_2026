@@ -69,25 +69,39 @@ Legend: ⬜ not started · 🟨 in progress · ✅ done · ⏸️ break
 
 ```text
 .
-├── README.md
-├── LICENSE
-├── requirements.txt
+├── capstone-project/
+│   ├──  docs/
+│   ├── notebooks/
+│   ├── src/
+│   ├── README.md
 ├── week-01-math-probability-statistics/
-│   ├── notes.md
 │   ├── exercises/
 │   └── notebooks/
 ├── week-02-eda-numpy-pandas/
+│   ├── exercises/
+│   └── notebooks/
 ├── week-03-supervised-learning/
-├── week-04-unsupervised-and-neural-networks/
-├── week-05-deep-learning-and-nlp/
-├── week-06-llm-fine-tuning/
-├── capstone-project/
-│   ├── README.md
-│   ├── src/
-│   ├── notebooks/
-│   └── docs/
-└── resources/
-    └── useful-links.md
+│   ├── exercises/
+│   └── notebooks/
+├── week-04-unsupervised-learning/
+│   ├── exercises/
+│   └── notebooks/
+├── week-05-neural-networks/
+│   ├── exercises/
+│   └── notebooks/
+├── week-06-deep-learning/
+│   ├── exercises/
+│   └── notebooks/
+├── week-07-natural-panguage-processing/
+│   ├── exercises/
+│   └── notebooks/
+├── week-08-llm-fine-tuning/
+│   ├── exercises/
+│   └── notebooks/
+├── gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 Each weekly folder follows the same pattern:
