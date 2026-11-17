@@ -51,13 +51,13 @@ The program ends with a **team Generative AI Capstone Project** that tackles a r
 
 | Week | Starts | Topics | Status |
 |------|--------|--------|--------|
-| 1 | Oct 11 | Math for Data Science, Probability and Statistics | ⬜ |
-| 2 | Oct 18 | Intro to AI, Exploratory Data Analysis (NumPy, Pandas) | ⬜ |
-| 3 | Oct 25 | Machine Learning 1: Supervised Learning | ⬜ |
-| 4 | Nov 1 | Machine Learning 2: Unsupervised Learning, Neural Networks and Deep Learning | ⬜ |
-| Break | Nov 8 | Week off | ⏸️ |
-| 5 | Nov 15 | Various Deep Learning Topics (CNN, RNN, GAN), NLP and Language Models | ⬜ |
-| 6 | Nov 22 | Fine-Tuning LLMs, Capstone introduction | ⬜ |
+| 1 | Oct 11 | Math for Data Science, Probability and Statistics | ✅ |
+| 2 | Oct 18 | Intro to AI, Exploratory Data Analysis (NumPy, Pandas) | ✅ |
+| 3 | Oct 25 | Machine Learning 1: Supervised Learning | ✅ |
+| 4 | Nov 1 | Machine Learning 2: Unsupervised Learning, Neural Networks and Deep Learning | ✅ |
+| Break | Nov 8 | Week off | ✅|
+| 5 | Nov 15 | Various Deep Learning Topics (CNN, RNN, GAN), NLP and Language Models | ✅ |
+| 6 | Nov 22 | Fine-Tuning LLMs, Capstone introduction | 🟨 |
 | 7–9 | Nov 29 – Dec 17 | Capstone: action plan, mentoring sessions, final submission | ⬜ |
 | Final | Dec 18–19 | Capstone final pitch | ⬜ |
 
