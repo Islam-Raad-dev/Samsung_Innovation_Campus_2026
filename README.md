@@ -16,7 +16,7 @@ I'm **Islam Raad**, a second-year AI Engineering student at the **University of 
 This repository is my personal, public record of the Samsung Innovation Campus (SIC) AI program. It contains **my own** code, notebooks, notes, and projects, organized week by week, so I can track my progress, revisit what I learned, and share it with others who are learning AI.
 
 > **Disclaimer:** This is an unofficial, personal repository. It is not affiliated with, endorsed by, or sponsored by Samsung or the SIC organizers. Official course slides, videos, PDFs, quizzes, and tests are **not** included here. They are the property of the program and are not for redistribution.
-
+                         
 ---
 
 ## About the program
