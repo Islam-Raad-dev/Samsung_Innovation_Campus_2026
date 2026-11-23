@@ -128,29 +128,13 @@ Each weekly folder follows the same pattern:
 
 The last three weeks of the program are a **group Generative AI Capstone** (teams of 6) that solves a real-world problem.
 
-- **Project title:** _TBD_
-- **Team:** _TBD_
+- **Project title:** Sieve
+- **Team:** DataHolics
 - **Problem statement:** _TBD_
 - **Approach and tools:** _TBD_
 - **Results and demo:** _TBD_
 
 > Capstone work is shared only with my teammates' consent. I will add details after the final presentation.
-
----
-
-## Content policy
-
-To respect the program's terms and other people's work, this repository **does not** contain:
-
-- Official course slides, PDFs, videos or recordings
-- Quiz questions or answers, or the final test
-- Any private data of other participants
-
-It **does** contain:
-
-- My own code and notebooks
-- My own notes, summarized in my own words
-- Personal side projects inspired by what I learn
 
 ---
 
