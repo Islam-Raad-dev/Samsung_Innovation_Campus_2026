@@ -1,12 +1,12 @@
 # Samsung Innovation Campus: AI (SIC Levant 2026)
 
 > My learning journey, notes, code, and projects from the **Samsung Innovation Campus Artificial Intelligence program**, SIC Levant, Oct 11 – Dec 19, 2026.
-
+                 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20progress-yellow)
 ![License](https://img.shields.io/badge/Code%20License-MIT-green)
-
+                       
 ---
 
 ## About this repository
